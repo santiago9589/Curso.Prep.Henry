@@ -1,0 +1,34 @@
+Variables. 
+
+Es un espacio que se le pide a la computadora para guardar lo que sea y utilizarlo 
+en distintos momentos, estas variables pueden ser de varios tipos depende del lenguaje
+que se trabaje.
+
+String.
+
+Son un tipo de variable utilizado por el lenguaje, es basicamente la union de cualquier tipo de caracter...
+sea letra,numero, un espacio o hasta una coma, siempre y cuando se declare entre comillas dobles o simples 
+la computadora lo tomara como una string o cadena de caracteres.
+
+Funciones (argumentos, `return`)
+
+las funciones son pequeñas partes de codigo que agrupamos para no repetirlo en nuestro programa, simplemente lo
+llamo cuando lo necesito. estas funciones le podemos pasar entre sus parentesis valores que serian paramentros y de
+esta manera hacerla generica, es decir que nos sirve para muchas cosas.
+Ejemplo.
+
+una funcion saludar(), colocando entre parentesis una variable "nombre" puedo saludar cuantas veces quiera a varias personas no solo a una.
+
+Otra cosa importante en este punto es el return, es lo que nos devuelve la funcion una vez la llamamos y hace su proceso, ya que ese es su fin.
+
+la llamamos, la utilizamos, nos regresa lo que sea que debe regresar y listo.
+
+Declaraciones `if`
+
+Es una manera de controlar el camino de desarrollo de nuestro programa en base a las cosas que vamos obteniendo o ingresando. si alguna variable
+toma un dato especifico nuestro programa continuara por una parte de nuestro codigo que seria complemente distinta si hubiese sido otro dato el obtenido.
+
+Valores booleanos (`true`, `false`)
+
+Son otro tipo de variable que simplemente tienen 2 posibles valores, true o false. los valores booleanos son los que utiliza las declaraciones if para conducir
+nuestro programa, ya que son resultados de comparaciones,validaciones que hacemos en el proceso.  
