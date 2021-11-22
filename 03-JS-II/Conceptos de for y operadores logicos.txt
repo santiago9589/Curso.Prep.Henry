@@ -1,0 +1,28 @@
+For
+
+Es un instruccion que permite repetir una parte del codigo muchas veces, estas repeticiones las dirige una variable...
+la cual llamamos variable de control y por lo general se llama "i", a "i" se le evalua en una condicion y depende de ese
+resultado se inicia nuevamente modificando la variable de control o se termina el ciclo. 
+
+El "for" ayuda a no repetir codigo como tambien a tener un programa mas ordenado.
+
+
+Operador && 
+
+Este operador simboliza "and" que vendria siendo "y" , se usa para relacionar 2 resultados si ambas soluciones son true
+entonces el resultado sera true, basta con que una no sea true para que resultado sea false. ya que se refiere a una y a otra.
+
+Operador ||
+
+Este operador simboliza "or" que vendria siendo "o" , se usa para relacionar 2 resultados si algunas de las soluciones es true
+entonces el resultado sera true, si ambas lo son sera false. ya que se refiere a una u otra.
+
+Operador !
+
+este es un operador de negacion, a los simbolos que ya se conocen se le agrega este adelante y se pregunta (no es..)
+ejemplo.
+
+if(5===6) preguntamos 5 es igual a 6 false
+
+if(5!==6) preguntamos 5 NO es igual a 6 true 
+
