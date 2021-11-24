@@ -1,0 +1,12 @@
+Arrays
+
+Es un tipo de dato en el cual se pueden agrupar de manera ordenada distintos
+tipos de datos nativos(propios del lenguaje) los cuales son (numericos,string,booleano).
+
+Mediante el indice del array se puede ubicar el tipo de dato que se necesita.
+
+
+
+Haciendo esta agrupacion obtenemos un codigo mas ordenado y que puede manejar mas informacion.
+
+
