@@ -1,0 +1,38 @@
+* Objetos
+
+son un tipo dato no nativos del lenguaje al cual le podemos definir caracteristicas
+y acciones(metodos) que todas se refieren al mismo tipo de dato. ejemplo:
+
+definimos un objeto alumno.
+
+ese alumno tiene( un nombre, un apellido, una edad)son tipos de datos en funcion de ese mismo alumno.
+
+* Propiedades
+
+Son las carasteristicas que le definimos al objeto. se define en la declaracion del objeto. o en otra 
+instancia del programa.
+
+* Métodos
+
+Son las acciones(funciones) que puede llevar a cabo el objeto. se define como una funcion comun, solo que 
+asociada al objeto(como si definieramos una propiedad mas).
+
+* Bucle `for…in`
+
+es una variante del bluce for, el cual nos permite recorrer las propiedades
+de los objetos,ya que a diferencia de los array el indice seria la propiedad. ( for propiedad in objeto)
+	
+	
+* Notación de puntos vs notación de corchetes
+
+podemos acceder a los valores de la propiedades mediantes estas alternativas.
+
+notacion de corchete, la cual se escribe como la del array conocida, seria.
+objeto[propiedad].
+
+notacion de puntos, esta se escribe con el nombre del objeto punto la propiedad
+objeto.propiedad.
+
+resumiendo. se considera que la notacion con puntos es mas practica y mas facil
+de leer en los codigos, aunque hay casos en lo cual su notacion de es suficiente.
+
