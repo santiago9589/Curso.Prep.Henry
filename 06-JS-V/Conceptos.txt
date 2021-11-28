@@ -1,0 +1,16 @@
+* _Constructors_ (de Clases)
+
+El es molde o plantilla que definimos para la creacion de objetos, esto no ayuda a no repetir codigo, y hacer
+modificaciones en 1 solo lugar. Ejemplo
+
+queremos crear autos, se crea una plantillas con los datos de un auto generico.
+y luego se crea una instancia de cada auto con datos ya mas especificos
+
+
+* `prototype`
+
+Cuando crearmos un constructor tambien creamos un prototipo de ese constructor, en ese prototypo se alojan todas
+aquellos metodos que tienen en comun las instancias que creemos con el constructor, es decir cada vez que alguno objeto
+quiere utilizar algun metodo lo busca en el prototipo de esa manera ahorramos memoria ya que no definimos 10 metodos para
+10 instancias sino un metodo para todas la instancias.
+
