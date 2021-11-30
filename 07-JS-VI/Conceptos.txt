@@ -1,0 +1,5 @@
+Funciones Callback.
+
+como sabemos las funciones pueden recibir parametros para llevar acabo procesos, estos paremetros son cualquier tipo de datos
+como tambien funciones las cuales al pasarse por parametro a otras funciones reciben el nombre de callback. como se dijo antes
+ya que es una funcion tambien debe recibir parametros, llevan acabo un proceso y dan un resultado.

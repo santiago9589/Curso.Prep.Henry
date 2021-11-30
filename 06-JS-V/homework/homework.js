@@ -129,3 +129,19 @@ module.exports = {
   agregarMetodo, 
   Persona
 };
+
+
+
+/* 
+
+function saludar(parametro)
+{
+  return "Hola "+parametro;
+}
+
+function crearSaludo(usuario,funcion)
+{
+  return funcion(usuario);
+}
+
+*/
